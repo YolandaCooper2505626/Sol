@@ -113,3 +113,4 @@ Fixed typo in documentation - build 609
 Updated project documentation - build 737
 Added proper error handling - 896
 Updated version number - v5.6.3
+Fixed code formatting issues - v1.5.1
