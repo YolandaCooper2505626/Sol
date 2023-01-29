@@ -107,3 +107,4 @@ Fixed memory management issue - 975
 Updated configuration settings - 73
 Added detailed comments for clarity - v8.4.3
 Added detailed comments for clarity - 677
+Code cleanup and formatting - v5.3.7
