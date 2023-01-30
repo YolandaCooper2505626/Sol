@@ -141,3 +141,4 @@ Added new feature for better user experience - 132
 Fixed memory management issue - v8.7.0
 Fixed typo in documentation - build 958
 Fixed critical bug in main module - v3.4.3
+Updated version number - 588
