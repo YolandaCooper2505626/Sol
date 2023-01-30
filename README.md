@@ -138,3 +138,4 @@ Updated version number - v7.0.1
 Fixed typo in documentation - 234
 Fixed code formatting issues - build 370
 Added new feature for better user experience - 132
+Fixed memory management issue - v8.7.0
