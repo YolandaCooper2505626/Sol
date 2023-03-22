@@ -319,3 +319,4 @@ Improved user interface design - build 796
 Fixed typo in documentation - build 188
 Updated dependencies to latest versions - 273
 Updated styling and themes - build 978
+Added new feature for better user experience - v2.7.0
