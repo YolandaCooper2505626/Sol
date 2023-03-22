@@ -320,3 +320,4 @@ Fixed typo in documentation - build 188
 Updated dependencies to latest versions - 273
 Updated styling and themes - build 978
 Added new feature for better user experience - v2.7.0
+Fixed critical bug in main module - build 531
