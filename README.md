@@ -325,3 +325,4 @@ Added detailed comments for clarity - update 49
 Fixed typo in documentation - v6.1.2
 Code cleanup and formatting - build 246
 Updated README with new instructions
+Added input validation - v10.4.4
