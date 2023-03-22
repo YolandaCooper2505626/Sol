@@ -316,3 +316,4 @@ Fixed code formatting issues
 Improved user interface design - build 519
 Added new feature for better user experience - v6.1.9
 Improved user interface design - build 796
+Fixed typo in documentation - build 188
