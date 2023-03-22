@@ -322,3 +322,4 @@ Updated styling and themes - build 978
 Added new feature for better user experience - v2.7.0
 Fixed critical bug in main module - build 531
 Added detailed comments for clarity - update 49
+Fixed typo in documentation - v6.1.2
