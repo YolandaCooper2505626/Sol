@@ -260,3 +260,4 @@ Updated project documentation - v8.8.0
 Updated styling and themes - 969
 Added input validation - 276
 Updated project documentation - 559
+Added new feature for better user experience - update 20
