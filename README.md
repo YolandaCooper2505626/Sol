@@ -263,3 +263,4 @@ Updated project documentation - 559
 Added new feature for better user experience - update 20
 Fixed memory management issue - v2.6.2
 Updated README with new instructions - update 15
+Updated README with new instructions - update 42
