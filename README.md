@@ -261,3 +261,4 @@ Updated styling and themes - 969
 Added input validation - 276
 Updated project documentation - 559
 Added new feature for better user experience - update 20
+Fixed memory management issue - v2.6.2
