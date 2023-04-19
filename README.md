@@ -265,3 +265,4 @@ Fixed memory management issue - v2.6.2
 Updated README with new instructions - update 15
 Updated README with new instructions - update 42
 Fixed typo in documentation - v5.0.7
+Updated styling and themes - build 972
