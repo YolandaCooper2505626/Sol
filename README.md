@@ -258,3 +258,4 @@ Fixed code formatting issues - update 2
 Optimized algorithm for better efficiency - 726
 Updated project documentation - v8.8.0
 Updated styling and themes - 969
+Added input validation - 276
