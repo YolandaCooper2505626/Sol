@@ -176,3 +176,4 @@ Updated README with new instructions - build 773
 Fixed critical bug in main module
 Updated styling and themes - v5.0.3
 Added proper error handling - 680
+Fixed critical bug in main module - 161
