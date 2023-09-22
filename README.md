@@ -184,3 +184,4 @@ Refactored code for better maintainability
 Improved user interface design - v1.2.9
 Added detailed comments for clarity
 Fixed typo in documentation
+Updated README with new instructions
