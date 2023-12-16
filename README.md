@@ -282,3 +282,4 @@ Fixed typo in documentation - 655
 Updated version number - v2.5.5
 Updated version number - update 2
 Updated dependencies to latest versions - v5.4.8
+Code cleanup and formatting - build 614
