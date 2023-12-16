@@ -276,3 +276,4 @@ Fixed memory management issue
 Improved user interface design
 Updated dependencies to latest versions - 302
 Improved user interface design
+Refactored code for better maintainability - v6.4.8
