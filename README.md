@@ -279,3 +279,4 @@ Improved user interface design
 Refactored code for better maintainability - v6.4.8
 Added input validation - 263
 Fixed typo in documentation - 655
+Updated version number - v2.5.5
