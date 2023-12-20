@@ -291,3 +291,4 @@ Added detailed comments for clarity - build 740
 Added comprehensive test coverage - update 50
 Code cleanup and formatting - v7.0.6
 Added input validation
+Updated README with new instructions
