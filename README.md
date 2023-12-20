@@ -293,3 +293,4 @@ Code cleanup and formatting - v7.0.6
 Added input validation
 Updated README with new instructions
 Optimized algorithm for better efficiency - 942
+Fixed code formatting issues - 548
