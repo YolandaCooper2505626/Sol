@@ -173,3 +173,4 @@ Fixed memory management issue - build 634
 Updated version number - update 40
 Fixed typo in documentation - 728
 Updated README with new instructions - build 773
+Fixed critical bug in main module
