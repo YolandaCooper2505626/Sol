@@ -53,3 +53,4 @@ Optimized algorithm for better efficiency - update 31
 Fixed memory management issue - 993
 Updated styling and themes
 Updated version number - v9.6.5
+Updated configuration settings - v8.0.7
