@@ -54,3 +54,4 @@ Fixed memory management issue - 993
 Updated styling and themes
 Updated version number - v9.6.5
 Updated configuration settings - v8.0.7
+Added comprehensive test coverage - build 429
