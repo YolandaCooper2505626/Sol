@@ -80,3 +80,4 @@ Updated configuration settings - v4.8.5
 Fixed typo in documentation - v1.4.9
 Updated styling and themes - 856
 Updated configuration settings - build 264
+Updated version number - build 550
