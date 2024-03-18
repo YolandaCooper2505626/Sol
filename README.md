@@ -28,3 +28,4 @@ Screenshots
 
 Improved performance optimization - build 145
 Added new feature for better user experience - build 498
+Updated project documentation - v6.8.5
