@@ -76,3 +76,4 @@ Improved performance optimization
 Updated version number - v3.3.4
 Fixed typo in documentation - 682
 Updated version number - update 38
+Updated configuration settings - v4.8.5
