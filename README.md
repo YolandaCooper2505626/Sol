@@ -26,3 +26,4 @@ Screenshots
 
 
 
+Improved performance optimization - build 145
