@@ -31,3 +31,4 @@ Added new feature for better user experience - build 498
 Updated project documentation - v6.8.5
 Improved user interface design - v6.7.7
 Added detailed comments for clarity - update 29
+Fixed typo in documentation
