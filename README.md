@@ -84,3 +84,4 @@ Updated version number - build 550
 Added input validation - build 747
 Updated dependencies to latest versions
 Added comprehensive test coverage - v5.5.7
+Added comprehensive test coverage - v2.0.7
