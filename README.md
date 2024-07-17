@@ -332,3 +332,4 @@ Added new feature for better user experience - v6.0.7
 Added proper error handling - update 45
 Added proper error handling - 795
 Code cleanup and formatting
+Updated configuration settings - v6.0.4
