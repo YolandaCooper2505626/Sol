@@ -328,3 +328,4 @@ Updated README with new instructions
 Added input validation - v10.4.4
 Fixed critical bug in main module
 Updated dependencies to latest versions - build 558
+Added new feature for better user experience - v6.0.7
