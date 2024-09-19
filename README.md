@@ -61,3 +61,4 @@ Improved user interface design - 561
 Fixed critical bug in main module - build 346
 Updated project documentation - v10.2.5
 Fixed critical bug in main module - build 221
+Updated README with new instructions
