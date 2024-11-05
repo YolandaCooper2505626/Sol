@@ -240,3 +240,4 @@ Fixed typo in documentation - build 456
 Fixed memory management issue
 Added new feature for better user experience
 Updated project documentation - v7.6.4
+Fixed typo in documentation - build 628
