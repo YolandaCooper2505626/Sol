@@ -237,3 +237,4 @@ Added detailed comments for clarity - v2.8.1
 Fixed code formatting issues - 361
 Updated dependencies to latest versions - v10.5.0
 Fixed typo in documentation - build 456
+Fixed memory management issue
