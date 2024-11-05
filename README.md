@@ -238,3 +238,4 @@ Fixed code formatting issues - 361
 Updated dependencies to latest versions - v10.5.0
 Fixed typo in documentation - build 456
 Fixed memory management issue
+Added new feature for better user experience
