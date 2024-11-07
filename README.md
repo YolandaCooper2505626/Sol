@@ -267,3 +267,4 @@ Updated README with new instructions - update 42
 Fixed typo in documentation - v5.0.7
 Updated styling and themes - build 972
 Added comprehensive test coverage - v3.8.8
+Fixed critical bug in main module - 4
