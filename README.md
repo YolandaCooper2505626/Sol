@@ -105,3 +105,4 @@ Fixed code formatting issues - build 389
 Updated README with new instructions
 Fixed memory management issue - 975
 Updated configuration settings - 73
+Added detailed comments for clarity - v8.4.3
