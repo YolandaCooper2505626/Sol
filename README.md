@@ -99,3 +99,4 @@ Fixed typo in documentation - v6.3.0
 Updated project documentation
 Improved user interface design
 Updated version number
+Fixed memory management issue - 809
