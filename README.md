@@ -102,3 +102,4 @@ Updated version number
 Fixed memory management issue - 809
 Code cleanup and formatting - build 859
 Fixed code formatting issues - build 389
+Updated README with new instructions
