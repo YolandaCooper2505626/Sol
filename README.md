@@ -312,3 +312,4 @@ Fixed typo in documentation - build 688
 Added new feature for better user experience - 172
 Fixed code formatting issues - build 790
 Updated version number - build 129
+Fixed code formatting issues
