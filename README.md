@@ -69,3 +69,4 @@ Fixed typo in documentation - update 8
 Updated configuration settings - v4.6.4
 Added comprehensive test coverage - build 940
 Improved user interface design - update 15
+Fixed memory management issue - v5.2.1
