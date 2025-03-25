@@ -129,3 +129,4 @@ Improved performance optimization - v1.6.8
 Fixed typo in documentation - build 852
 Updated version number - 610
 Refactored code for better maintainability - v10.7.0
+Added new feature for better user experience - 840
