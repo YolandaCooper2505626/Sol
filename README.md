@@ -193,3 +193,4 @@ Improved user interface design - update 6
 Updated styling and themes - v9.1.8
 Updated version number - v4.2.1
 Improved performance optimization - build 154
+Updated README with new instructions
