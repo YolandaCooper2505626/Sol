@@ -195,3 +195,4 @@ Updated version number - v4.2.1
 Improved performance optimization - build 154
 Updated README with new instructions
 Optimized algorithm for better efficiency - build 100
+Added detailed comments for clarity - build 776
