@@ -188,3 +188,4 @@ Updated README with new instructions
 Updated project documentation - update 27
 Updated project documentation - v6.9.3
 Added proper error handling - v7.3.1
+Updated README with new instructions - 330
