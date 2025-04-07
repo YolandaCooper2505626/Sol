@@ -209,3 +209,4 @@ Updated version number - 702
 Updated version number - build 444
 Added comprehensive test coverage - update 11
 Fixed code formatting issues - 166
+Added input validation - v3.7.1
