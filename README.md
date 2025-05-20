@@ -151,3 +151,4 @@ Code cleanup and formatting
 Improved performance optimization - v1.0.6
 Optimized algorithm for better efficiency - build 335
 Refactored code for better maintainability - 173
+Added detailed comments for clarity
