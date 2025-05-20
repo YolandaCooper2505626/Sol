@@ -148,3 +148,4 @@ Added input validation - v3.1.3
 Added new feature for better user experience - v5.8.8
 Updated dependencies to latest versions
 Code cleanup and formatting
+Improved performance optimization - v1.0.6
