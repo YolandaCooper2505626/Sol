@@ -298,3 +298,4 @@ Fixed memory management issue
 Fixed critical bug in main module
 Fixed code formatting issues - update 46
 Updated project documentation - v4.5.2
+Updated dependencies to latest versions - 296
