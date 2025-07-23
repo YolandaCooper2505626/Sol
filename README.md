@@ -299,3 +299,4 @@ Fixed critical bug in main module
 Fixed code formatting issues - update 46
 Updated project documentation - v4.5.2
 Updated dependencies to latest versions - 296
+Refactored code for better maintainability - v2.1.0
