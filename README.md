@@ -301,3 +301,4 @@ Updated project documentation - v4.5.2
 Updated dependencies to latest versions - 296
 Refactored code for better maintainability - v2.1.0
 Updated styling and themes - update 36
+Updated version number - 128
